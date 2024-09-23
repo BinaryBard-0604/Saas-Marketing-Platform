@@ -24,6 +24,7 @@ const variantStyles = {
   },
 }
 
+
 type ButtonProps = (
   | {
       variant?: 'solid'
